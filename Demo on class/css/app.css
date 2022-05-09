@@ -1,0 +1,21 @@
+p{
+    text-align: left;
+    width: 874px;
+}
+p a{
+    font-weight: bold ;
+}
+p b{
+    font-style: italic;
+    color: #ff4ada;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p c{
+    font-weight: bold;
+    font-style: italic;
+}
+#a{
+    text-align: right;
+
+}
