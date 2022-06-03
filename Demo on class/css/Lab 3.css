@@ -1,0 +1,147 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+
+    font-family: "Times New Roman";
+    font-weight: 400;
+    font-size: 15px;
+    text-align: left;
+    background-image: linear-gradient(0, rgba(229, 111, 111, 0.25),rgba(111,111,215,0.25)),
+    url("../images/stock-photo-laptop-pen-note-pad-smart-phone-and-cup-of-coffee-on-black-background-702979084.jpg");
+    color: #333333;
+    line-height: 1.5;
+    display: flex;
+    justify-content: center;
+
+}
+#box{
+    width: 1050px;
+    height: 1150px;
+    background-color: #fafafa;
+    border-radius: 5px;
+    margin: 60px 220px;
+    border: 1px solid olivedrab;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.box1{
+
+
+}
+.boxa{
+    width: 1050px;
+    height: 200px;
+    background-color: #BAC4CD;
+    border-radius: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #333333;
+    display: flex;
+
+}
+
+
+
+.name{
+    font-size: 20px;
+    font-weight: 700;
+    margin: auto;
+
+}
+h1{
+    text-transform: uppercase;
+}
+#job{
+    font-weight: 400;
+    font-size: 14px;
+
+}
+.boxb{
+    width: 1050px;
+    height: 950px;
+    background-color: #EEEEEE;
+    border-radius: 5px;
+    display: flex;
+}
+.boxc{
+    width:300px ;
+    height: 1100px;
+    background-color: #E7E7E7;
+    margin: -150px 0 0 50px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.boxc1{
+    width: 150px;
+    height: 150px;
+    background-image: url('../images/anh the_preview_rev_1.png') ;
+    background-size: cover;
+    border-radius: 100%;
+    margin: auto;
+}
+.boxc2{
+    width: 200px;
+    height: 950px;
+    line-height: 2.5;
+    margin: auto;
+
+}
+a{
+    text-decoration: none;
+    color: #333333;
+}
+a:hover{
+    color: yellowgreen;
+}
+.boxd{
+    width: 700px ;
+    height: 950px ;
+    background-color: #fafafa;
+    border: 1px solid #d9efac;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+
+
+
+
+}
+.box2{
+    width: 700px;
+    height: 310px;
+
+}
+.item1{
+    background-color: #EEEEEE;
+    margin: 4px 2px 4px 0;
+
+}
+.item2{
+    background-color: #EEEEEE;
+    margin: 0 2px 4px 0px;
+    
+    display: flex;
+}
+.box22{
+
+}
+h3{
+    font-weight: 400;
+}
+.lui{
+    margin: 0 0 0 50px;
+}
+
+.item3{
+    background-color: #EEEEEE;
+    margin: 0 2px 4px 0;
+
+}
